@@ -51,8 +51,8 @@ ATM-Management-System/
 
 Enter your choice: 1
 Your Current Balance: ₹10,000
-collect your  Atm card
- thank you for visiting
+Enter  the option: 5
+collect your  Atm card thank you for visiting
 
 🌟 Future Enhancements
 
