@@ -42,41 +42,17 @@ ATM-Management-System/
 
 💻 Sample Output
 
-ENTER THE ATM NUMBER:
-123456
-ENTER THE ATM PIN:
-123
- 1.viewAvailable
- 2.withdrawAmount
- 3.DepositAmount
- 4.viewMinistatement
- 5.exit
-Enter  the option
-3
-Enter the amount to be deposit: 
-1000
-depositedAmount is:1000.0
-AvailableBalance:1000.0
- 1.viewAvailable
- 2.withdrawAmount
- 3.DepositAmount
- 4.viewMinistatement
- 5.exit
-Enter  the option:
-2
-Enter the amount to withdraw:
-200
-Enter the amount in terms of 500
- 1.viewAvailable
- 2.withdrawAmount
- 3.DepositAmount
- 4.viewMinistatement
- 5.exit
-Enter  the option:
-5
+===== Welcome to the ATM =====
+1. Check Balance
+2. Deposit Amount
+3. Withdraw Amount
+4. View Mini Statement
+5. Exit
+
+Enter your choice: 1
+Your Current Balance: ₹10,000
 collect your  Atm card
  thank you for visiting
-
 
 🌟 Future Enhancements
 
